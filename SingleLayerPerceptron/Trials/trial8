@@ -1,0 +1,342 @@
+Learning Rate: 0.4 (Initial weights of 0)
+
+===============================================
+Currently Training: 0
+Summation: 0
+
+===============================================
+Currently Training: 1
+Summation: 0
+
+===============================================
+Currently Training: 2
+Summation: 0
+Recalculating weights based on: { 1, 210, 9.4 }
+Original Weights: { 0, 0, 0 }
+Recalculated Weights: { -0.8, -168, -7.52 }
+
+===============================================
+Currently Training: 3
+Summation: -32821.7
+
+===============================================
+Currently Training: 0
+Summation: -20455.1
+Recalculating weights based on: { 1, 121, 16.8 }
+Original Weights: { -0.8, -168, -7.52 }
+Recalculated Weights: { 0, -71.2, 5.92 }
+
+===============================================
+Currently Training: 1
+Summation: -8026.82
+Recalculating weights based on: { 1, 114, 15.2 }
+Original Weights: { 0, -71.2, 5.92 }
+Recalculated Weights: { 0.8, 20, 18.08 }
+
+===============================================
+Currently Training: 2
+Summation: 4370.75
+Recalculating weights based on: { 1, 210, 9.4 }
+Original Weights: { 0.8, 20, 18.08 }
+Recalculated Weights: { 0, -148, 10.56 }
+
+===============================================
+Currently Training: 3
+Summation: -28774.5
+
+===============================================
+Currently Training: 0
+Summation: -17730.6
+Recalculating weights based on: { 1, 121, 16.8 }
+Original Weights: { 0, -148, 10.56 }
+Recalculated Weights: { 0.8, -51.2, 24 }
+
+===============================================
+Currently Training: 1
+Summation: -5471.2
+Recalculating weights based on: { 1, 114, 15.2 }
+Original Weights: { 0.8, -51.2, 24 }
+Recalculated Weights: { 1.6, 40, 36.16 }
+
+===============================================
+Currently Training: 2
+Summation: 8741.51
+Recalculating weights based on: { 1, 210, 9.4 }
+Original Weights: { 1.6, 40, 36.16 }
+Recalculated Weights: { 0.8, -128, 28.64 }
+
+===============================================
+Currently Training: 3
+Summation: -24727.2
+
+===============================================
+Currently Training: 0
+Summation: -15006
+Recalculating weights based on: { 1, 121, 16.8 }
+Original Weights: { 0.8, -128, 28.64 }
+Recalculated Weights: { 1.6, -31.2, 42.08 }
+
+===============================================
+Currently Training: 1
+Summation: -2915.58
+Recalculating weights based on: { 1, 114, 15.2 }
+Original Weights: { 1.6, -31.2, 42.08 }
+Recalculated Weights: { 2.4, 60, 54.24 }
+
+===============================================
+Currently Training: 2
+Summation: 13112.3
+Recalculating weights based on: { 1, 210, 9.4 }
+Original Weights: { 2.4, 60, 54.24 }
+Recalculated Weights: { 1.6, -108, 46.72 }
+
+===============================================
+Currently Training: 3
+Summation: -20680
+
+===============================================
+Currently Training: 0
+Summation: -12281.5
+Recalculating weights based on: { 1, 121, 16.8 }
+Original Weights: { 1.6, -108, 46.72 }
+Recalculated Weights: { 2.4, -11.2, 60.16 }
+
+===============================================
+Currently Training: 1
+Summation: -359.966
+Recalculating weights based on: { 1, 114, 15.2 }
+Original Weights: { 2.4, -11.2, 60.16 }
+Recalculated Weights: { 3.2, 80, 72.32 }
+
+===============================================
+Currently Training: 2
+Summation: 17483
+Recalculating weights based on: { 1, 210, 9.4 }
+Original Weights: { 3.2, 80, 72.32 }
+Recalculated Weights: { 2.4, -88, 64.8 }
+
+===============================================
+Currently Training: 3
+Summation: -16632.7
+
+===============================================
+Currently Training: 0
+Summation: -9556.96
+Recalculating weights based on: { 1, 121, 16.8 }
+Original Weights: { 2.4, -88, 64.8 }
+Recalculated Weights: { 3.2, 8.80003, 78.24 }
+
+===============================================
+Currently Training: 1
+Summation: 2195.65
+
+===============================================
+Currently Training: 2
+Summation: 2586.66
+Recalculating weights based on: { 1, 210, 9.4 }
+Original Weights: { 3.2, 8.80003, 78.24 }
+Recalculated Weights: { 2.4, -159.2, 70.72 }
+
+===============================================
+Currently Training: 3
+Summation: -30468.8
+
+===============================================
+Currently Training: 0
+Summation: -18072.7
+Recalculating weights based on: { 1, 121, 16.8 }
+Original Weights: { 2.4, -159.2, 70.72 }
+Recalculated Weights: { 3.2, -62.4, 84.16 }
+
+===============================================
+Currently Training: 1
+Summation: -5831.17
+Recalculating weights based on: { 1, 114, 15.2 }
+Original Weights: { 3.2, -62.4, 84.16 }
+Recalculated Weights: { 4, 28.8, 96.32 }
+
+===============================================
+Currently Training: 2
+Summation: 6957.41
+Recalculating weights based on: { 1, 210, 9.4 }
+Original Weights: { 4, 28.8, 96.32 }
+Recalculated Weights: { 3.2, -139.2, 88.8 }
+
+===============================================
+Currently Training: 3
+Summation: -26421.5
+
+===============================================
+Currently Training: 0
+Summation: -15348.2
+Recalculating weights based on: { 1, 121, 16.8 }
+Original Weights: { 3.2, -139.2, 88.8 }
+Recalculated Weights: { 4, -42.4, 102.24 }
+
+===============================================
+Currently Training: 1
+Summation: -3275.55
+Recalculating weights based on: { 1, 114, 15.2 }
+Original Weights: { 4, -42.4, 102.24 }
+Recalculated Weights: { 4.8, 48.8, 114.4 }
+
+===============================================
+Currently Training: 2
+Summation: 11328.2
+Recalculating weights based on: { 1, 210, 9.4 }
+Original Weights: { 4.8, 48.8, 114.4 }
+Recalculated Weights: { 4, -119.2, 106.88 }
+
+===============================================
+Currently Training: 3
+Summation: -22374.3
+
+===============================================
+Currently Training: 0
+Summation: -12623.6
+Recalculating weights based on: { 1, 121, 16.8 }
+Original Weights: { 4, -119.2, 106.88 }
+Recalculated Weights: { 4.8, -22.4, 120.32 }
+
+===============================================
+Currently Training: 1
+Summation: -719.932
+Recalculating weights based on: { 1, 114, 15.2 }
+Original Weights: { 4.8, -22.4, 120.32 }
+Recalculated Weights: { 5.6, 68.8, 132.48 }
+
+===============================================
+Currently Training: 2
+Summation: 15698.9
+Recalculating weights based on: { 1, 210, 9.4 }
+Original Weights: { 5.6, 68.8, 132.48 }
+Recalculated Weights: { 4.8, -99.2, 124.96 }
+
+===============================================
+Currently Training: 3
+Summation: -18327
+
+===============================================
+Currently Training: 0
+Summation: -9899.07
+Recalculating weights based on: { 1, 121, 16.8 }
+Original Weights: { 4.8, -99.2, 124.96 }
+Recalculated Weights: { 5.6, -2.39996, 138.4 }
+
+===============================================
+Currently Training: 1
+Summation: 1835.68
+
+===============================================
+Currently Training: 2
+Summation: 802.568
+Recalculating weights based on: { 1, 210, 9.4 }
+Original Weights: { 5.6, -2.39996, 138.4 }
+Recalculated Weights: { 4.8, -170.4, 130.88 }
+
+===============================================
+Currently Training: 3
+Summation: -32163.1
+
+===============================================
+Currently Training: 0
+Summation: -18414.8
+Recalculating weights based on: { 1, 121, 16.8 }
+Original Weights: { 4.8, -170.4, 130.88 }
+Recalculated Weights: { 5.6, -73.6, 144.32 }
+
+===============================================
+Currently Training: 1
+Summation: -6191.13
+Recalculating weights based on: { 1, 114, 15.2 }
+Original Weights: { 5.6, -73.6, 144.32 }
+Recalculated Weights: { 6.4, 17.6, 156.48 }
+
+===============================================
+Currently Training: 2
+Summation: 5173.32
+Recalculating weights based on: { 1, 210, 9.4 }
+Original Weights: { 6.4, 17.6, 156.48 }
+Recalculated Weights: { 5.6, -150.4, 148.96 }
+
+===============================================
+Currently Training: 3
+Summation: -28115.8
+
+===============================================
+Currently Training: 0
+Summation: -15690.3
+Recalculating weights based on: { 1, 121, 16.8 }
+Original Weights: { 5.6, -150.4, 148.96 }
+Recalculated Weights: { 6.4, -53.6, 162.4 }
+
+===============================================
+Currently Training: 1
+Summation: -3635.52
+Recalculating weights based on: { 1, 114, 15.2 }
+Original Weights: { 6.4, -53.6, 162.4 }
+Recalculated Weights: { 7.2, 37.6, 174.56 }
+
+===============================================
+Currently Training: 2
+Summation: 9544.07
+Recalculating weights based on: { 1, 210, 9.4 }
+Original Weights: { 7.2, 37.6, 174.56 }
+Recalculated Weights: { 6.4, -130.4, 167.04 }
+
+===============================================
+Currently Training: 3
+Summation: -24068.6
+
+===============================================
+Currently Training: 0
+Summation: -12965.7
+Recalculating weights based on: { 1, 121, 16.8 }
+Original Weights: { 6.4, -130.4, 167.04 }
+Recalculated Weights: { 7.2, -33.6, 180.48 }
+
+===============================================
+Currently Training: 1
+Summation: -1079.9
+Recalculating weights based on: { 1, 114, 15.2 }
+Original Weights: { 7.2, -33.6, 180.48 }
+Recalculated Weights: { 8, 57.6, 192.64 }
+
+===============================================
+Currently Training: 2
+Summation: 13914.8
+Recalculating weights based on: { 1, 210, 9.4 }
+Original Weights: { 8, 57.6, 192.64 }
+Recalculated Weights: { 7.2, -110.4, 185.12 }
+
+===============================================
+Currently Training: 3
+Summation: -20021.3
+
+===============================================
+Currently Training: 0
+Summation: -10241.2
+Recalculating weights based on: { 1, 121, 16.8 }
+Original Weights: { 7.2, -110.4, 185.12 }
+Recalculated Weights: { 8, -13.6, 198.56 }
+
+===============================================
+Currently Training: 1
+Summation: 1475.72
+
+===============================================
+Currently Training: 2
+Summation: -981.526
+
+===============================================
+Currently Training: 3
+Summation: -1035.65
+
+===============================================
+Currently Training: 0
+Summation: 1698.21
+
+===============================================
+Classifying unknown: 
+Summation: 1658.23
+Classification of Unknown: 1

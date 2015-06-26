@@ -1,0 +1,33 @@
+Learning Rate: 0.01
+
+===============================================
+Currently Training: 0
+Summation: 180
+
+===============================================
+Currently Training: 1
+Summation: -90
+Recalculating weights based on: { 1, 114, 15.2 }
+Original Weights: { -1230, -30, 300 }
+Recalculated Weights: { -1229.98, -27.72, 300.304 }
+
+===============================================
+Currently Training: 2
+Summation: -4228.32
+
+===============================================
+Currently Training: 3
+Summation: -4202.92
+
+===============================================
+Currently Training: 0
+Summation: 461.007
+
+===============================================
+Currently Training: 1
+Summation: 174.561
+
+===============================================
+Classifying unknown: 
+Summation: 264.662
+Classification of Unknown: 1
